@@ -1,2 +1,2 @@
-# hello-wprd
+# hello-word
 new content
